@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="F15 Avião" author="Milionario" />
+	<file src="520.txd" />
+	<file src="520.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

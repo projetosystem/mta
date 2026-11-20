@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Grumman Avião" author="Milionario" />
+	<file src="519.txd" />
+	<file src="519.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

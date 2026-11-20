@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Ford Explorer Carro" author="Milionario" />
+	<file src="490.txd" />
+	<file src="490.dff" />
+	<script type="client" src="replace.lua" />
+</meta>
