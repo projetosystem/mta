@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="559" description="559" />
+     <script src="script.lua" type="client" />
+     <file src="alpha.txd" />
+     <file src="alpha.dff" />
+</meta>

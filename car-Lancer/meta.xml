@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Sultan" author="Milionario" />
+	<file src="model.txd" />
+	<file src="model.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

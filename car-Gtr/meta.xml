@@ -1,0 +1,6 @@
+<meta>
+	<info type="misc" name="Buffalo" author="Alexsander" />
+	<file src="data/aqv.txd" />
+	<file src="data/aqv.dff" />
+	<script type="client" src="replace.lua" />
+</meta>
