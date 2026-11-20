@@ -1,0 +1,6 @@
+<meta>
+	<info type="misc" name="Carro" tropic="Alexsander" description="" version="69" />
+	<file src="data/jester.txd" />
+	<file src="data/jester.dff" />
+	<script type="client" src="replace.lua" />
+</meta>
