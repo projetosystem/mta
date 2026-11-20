@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Suburban Carro" author="Milionario" />
+	<file src="400.txd" />
+	<file src="400.dff" />
+	<script type="client" src="replace.lua" />
+</meta>
