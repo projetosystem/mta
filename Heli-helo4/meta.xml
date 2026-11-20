@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Helo 4 Helicoptero" author="Milionario" />
+	<file src="488.txd" />
+	<file src="488.dff" />
+	<script type="client" src="replace.lua" />
+</meta>
