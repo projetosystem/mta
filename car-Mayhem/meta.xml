@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Mayhem Carro" author="Milionario" />
+	<file src="599.txd" />
+	<file src="599.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

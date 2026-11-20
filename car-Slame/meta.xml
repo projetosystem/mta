@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Slame Carro" author="Milionario" />
+	<file src="580.txd" />
+	<file src="580.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

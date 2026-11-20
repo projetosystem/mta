@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Harley Moto" author="Milionario" />
+	<file src="523.txd" />
+	<file src="523.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

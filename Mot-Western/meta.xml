@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Western Moto" author="Milionario" />
+	<file src="586.txd" />
+	<file src="586.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

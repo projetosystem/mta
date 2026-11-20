@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Ralc Helicoptero" author="Milionario" />
+	<file src="425.txd" />
+	<file src="425.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

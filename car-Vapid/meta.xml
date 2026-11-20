@@ -1,0 +1,6 @@
+<meta>
+	<info type="Adicional" name="Vapid Carro" author="Milionario" />
+	<file src="579.txd" />
+	<file src="579.dff" />
+	<script type="client" src="replace.lua" />
+</meta>
